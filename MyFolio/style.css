@@ -1,0 +1,32 @@
+/* source code from w3schools */
+.resume {    
+    max-width: 1400px;
+    margin: auto;
+    text-align: center;
+  }
+  
+.title {
+    color: grey;
+    font-size: 20px;
+  }
+  
+ .button {
+  background-color: rgb(252, 249, 249); 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  }
+  
+.a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
